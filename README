@@ -1,9 +1,6 @@
 These are three short fun little programs I wrote back when I was
 in high school. They include:
 
-penistime.c - Utility that displays your uptime and a ASCII penis with a length corresponding
-to how long your computer has been running.
-
 me.c - This is the classical /me command from IRC ported to your shell when you want
 to express some of those feelings inside!
 

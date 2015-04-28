@@ -5,3 +5,5 @@ me.c - This is the classical /me command from IRC ported to your shell when you 
 to express some of those feelings inside!
 
 piano.pl - A simple little command line piano using system beeps. Written in PERL.
+
+penistime.c - me and an old friend hacked around and made this back in the day (RIP Dlab)
